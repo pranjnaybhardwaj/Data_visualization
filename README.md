@@ -1,4 +1,4 @@
-# Data_visualization
+# Data_visualization_based_analysis_2023
 # Data Visualization for Air Quality Analysis
 
 This document presents the findings of my master's project for the Data Management & Visualization module. The project utilizes air quality data, specifically focusing on PM (particulate matter) particles, collected from DPD vans by the Insight SFI Centre. 
